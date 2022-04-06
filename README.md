@@ -8,8 +8,9 @@
 - Advisor & Partner at Octave.
 - CTO & Co-Founder of C1.
 - BeardedWizzard at Orca.
-- Algorand Dev at Sea.
 - Dev at Pandoras Box.
+- Algorand Dev at Sea.
+
 
 ## Languages:
 
