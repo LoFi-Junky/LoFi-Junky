@@ -4,7 +4,7 @@
 ## Porfolio:
 - CEO of Shield Network & Co-Founder of Shieldpad.io
 - CTO & Project Manager at Frictionless Network.
-- - Advisor & Technical Consultant at Octave.
+- Advisor & Technical Consultant at Octave.
 - CEO & Co-Founder of Block Trail.
 - CTO & Co-Founder of C1.
 - BeardedWizzard at Orca.
