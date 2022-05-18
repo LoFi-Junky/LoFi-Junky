@@ -11,6 +11,7 @@
 - Algorand Dev at Sea.
 
 ## Past Work:
+- Consultant, Advisor, Project Manager & Dev at MAUI. 
 - Consultant, Advisor & Marketing at Cure Coin.
 - BeardedWizzard at Orca.
 - Dev at Pandoras Box.
