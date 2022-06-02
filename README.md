@@ -1,5 +1,6 @@
 
 ## Creator & Inventor of the Multi-Signature Liquidity Pool. 
+Business Dev. Currently learning how to becoming a tech developer.
 
 ## Porfolio:
 - CEO of Shield Network & Co-Founder of Shieldpad.io
